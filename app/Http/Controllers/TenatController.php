@@ -10,14 +10,16 @@ class TenatController extends Controller
 
         // return view('Encargado_obra.indexEncargado');
         // return view('Encargado_obra.conceptosPrincipal');
-        // return view('Encargado_obra.createConcepto');
+        //  return view('Encargado_obra.createConcepto');
 
         // return view('Encargado_obra.Codigo');
        
      
-        // return view('Encargado_obra.editarConcepto');
+        
         
         // return view('Encargado_obra.listaConceptos');
-                return view('Encargado_obra.listaConceptosG');
+        return view('Encargado_obra.editarConcepto');
+                // return view('Encargado_obra.listaConceptosG');
+        // return view('Empresa.editobra');
     }
 }

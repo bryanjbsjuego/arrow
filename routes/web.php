@@ -23,3 +23,7 @@ Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 Route::get('/principal', [TenatController::class,'index']);
+
+//Tenant
+Route::get('/tenant', 'App\Http\Controllers\TenantController@index');
+Route::get('/tenant/create', 'App\Http\Controllers\TenantController@create');

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 <title>:: Arrow ::</title>
-<link rel="icon" href="favicon.ico" type="image/x-icon">
+<link rel="icon" href="{{ asset('images/favicon.ico')}}" type="image/x-icon">
 <link rel="stylesheet" href="{{asset('plugins/bootstrap/css/bootstrap.min.css')}}" />
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 <!-- Custom Css -->
@@ -28,7 +28,7 @@
                 </div>
             </div>
         </div>
-        <p>Please wait...</p>
+        <p>Cargando...</p>
     </div>
 </div>
 <!-- #END# Page Loader --> 
@@ -72,46 +72,46 @@
         <div class="column">
             <h2>Popular</h2>
             <a class="media-object" href="#">
-                <img class="rounded-circle" src="{{asset('images/sm/avatar5.jpg')}}" alt=""/>
+                <img class="rounded-circle" src="{{ asset('images/sm/avatar5.jpg')}}" alt=""/>
                 <h3>Sara Soueidan</h3>
             </a>
             <a class="media-object" href="#">
-                <img class="rounded-circle" src="{{asset('images/sm/avatar4.jpg')}}" alt=""/>
+                <img class="rounded-circle" src="{{ asset('images/sm/avatar4.jpg')}}" alt=""/>
                 <h3>Rachel Smith</h3>
             </a>
             <a class="media-object" href="#">
-                <img class="rounded-circle" src="{{asset('images/sm/avatar3.jpg')}}" alt=""/>
+                <img class="rounded-circle" src="{{ asset('images/sm/avatar3.jpg')}}" alt=""/>
                 <h3>Peter Finlan</h3>
             </a>
             <a class="media-object" href="#">
-                <img class="rounded-circle" src="{{asset('images/sm/avatar2.jpg')}}" alt=""/>
+                <img class="rounded-circle" src="{{ asset('images/sm/avatar2.jpg') }}" alt=""/>
                 <h3>Patrick Cox</h3>
             </a>
             <a class="media-object" href="#">
-                <img class="rounded-circle" src="{{asset('images/sm/avatar1.jpg')}}" alt=""/>
+                <img class="rounded-circle" src="{{ asset('images/sm/avatar1.jpg')}}" alt=""/>
                 <h3>Tim Holman</h3>
             </a>
         </div>
         <div class="column">
             <h2>Recent</h2>
             <a class="media-object" href="#">
-                <img class="rounded-circle" src="{{asset('images/sm/avatar1.jpg')}}" alt=""/>
+                <img class="rounded-circle" src="{{ asset('images/sm/avatar1.jpg')}}" alt=""/>
                 <h3>Sara Soueidan</h3>
             </a>
             <a class="media-object" href="#">
-                <img class="rounded-circle" src="{{asset('images/sm/avatar2.jpg')}}" alt=""/>
+                <img class="rounded-circle" src="{{ asset('images/sm/avatar2.jpg')}}" alt=""/>
                 <h3>Rachel Smith</h3>
             </a>
             <a class="media-object" href="#">
-                <img class="rounded-circle" src="{{asset('images/sm/avatar3.jpg')}}" alt=""/>
+                <img class="rounded-circle" src="{{ asset('images/sm/avatar3.jpg')}}" alt=""/>
                 <h3>Peter Finlan</h3>
             </a>
             <a class="media-object" href="#"> 
-                <img class="rounded-circle" src="{{asset('images/sm/avatar4.jpg')}}" alt=""/>
+                <img class="rounded-circle" src="{{ asset('images/sm/avatar4.jpg')}}" alt=""/>
                 <h3>Patrick Cox</h3>
             </a>
             <a class="media-object" href="#">
-                <img class="rounded-circle" src="{{asset('images/sm/avatar5.jpg')}}" alt=""/>
+                <img class="rounded-circle" src="{{ asset('images/sm/avatar5.jpg')}}" alt=""/>
                 <h3>Tim Holman</h3>
             </a>
         </div>
@@ -417,21 +417,21 @@
                     <ul>
                         <li class="online">
                             <div class="media">
-                                <a  role="button" tabindex="0"> <img class="media-object " src="{{asset('images/xs/avatar1.jpg')}}" alt=""> </a>
+                                <a  role="button" tabindex="0"> <img class="media-object " src="{{ asset('images/xs/avatar1.jpg')}}" alt=""> </a>
                                 <div class="media-body">
                                     <span class="name">Claire Sassu</span> <span class="message">Can you share the...</span> <span class="badge badge-outline status"></span>
                                 </div>
                             </div>
                         </li>
                         <li class="online">
-                            <div class="media"> <a  role="button" tabindex="0"> <img class="media-object " src="{{asset('images/xs/avatar2.jpg')}}" alt=""> </a>
+                            <div class="media"> <a  role="button" tabindex="0"> <img class="media-object " src="{{ asset('images/xs/avatar2.jpg')}}" alt=""> </a>
                                 <div class="media-body">
                                     <span class="name">Maggie jackson</span> <span class="message">Can you share the...</span> <span class="badge badge-outline status"></span>
                                 </div>
                             </div>
                         </li>
                         <li class="online">
-                            <div class="media"> <a  role="button" tabindex="0"> <img class="media-object " src="{{asset('images/xs/avatar3.jpg')}}" alt=""> </a>
+                            <div class="media"> <a  role="button" tabindex="0"> <img class="media-object " src="{{ asset('images/xs/avatar3.jpg')}}" alt=""> </a>
                                 <div class="media-body">
                                     <span class="name">Joel King</span> <span class="message">Ready for the meeti...</span> <span class="badge badge-outline status"></span>
                                 </div>
@@ -441,21 +441,21 @@
                     <h6>Contacts</h6>
                     <ul>
                         <li class="offline">
-                            <div class="media"> <a  role="button" tabindex="0"> <img class="media-object " src="{{asset('images/xs/avatar4.jpg')}}" alt=""> </a>
+                            <div class="media"> <a  role="button" tabindex="0"> <img class="media-object " src="{{ asset('images/xs/avatar4.jpg')}}" alt=""> </a>
                                 <div class="media-body">
                                     <span class="name">Joel King</span> <span class="badge badge-outline status"></span>
                                 </div>
                             </div>
                         </li>
                         <li class="online">
-                            <div class="media"> <a  role="button" tabindex="0"> <img class="media-object " src="{{asset('images/xs/avatar1.jpg')}}" alt=""> </a>
+                            <div class="media"> <a  role="button" tabindex="0"> <img class="media-object " src="{{ asset('images/xs/avatar1.jpg')}}" alt=""> </a>
                                 <div class="media-body">
                                     <span class="name">Joel King</span> <span class="badge badge-outline status"></span>
                                 </div>
                             </div>
                         </li>
                         <li class="offline">
-                            <div class="media"> <a class="pull-left " role="button" tabindex="0"> <img class="media-object " src="{{asset('images/xs/avatar2.jpg')}}" alt=""> </a>
+                            <div class="media"> <a class="pull-left " role="button" tabindex="0"> <img class="media-object " src="{{ asset('images/xs/avatar2.jpg')}}" alt=""> </a>
                                 <div class="media-body">
                                     <span class="name">Joel King</span> <span class="badge badge-outline status"></span>
                                 </div>
@@ -540,6 +540,7 @@
 <script src="{{asset('plugins/chartjs/Chart.bundle.min.js')}}"></script> <!-- Chart Plugins Js --> 
  <script src="{{asset('bundles/mainscripts.bundle.js')}}"></script><!-- Custom Js --> 
 <script src="{{asset('js/pages/charts/sparkline.min.js')}}"></script> 
+
  <script src="{{asset('js/pages/index.js')}}"></script> 
 
 
