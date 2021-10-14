@@ -19,9 +19,9 @@
                 <div class="card">
                     <div class="body">
                         <div class="member-card verified">
-                            <div class="thumb-xl member-thumb">
+                           <!-- <div class="thumb-xl member-thumb">
                                 <img src="images/random-avatar3.jpg" class="img-thumbnail rounded-circle" alt="profile-image">                                
-                            </div>
+                            </div> -->
 
                             <div class="m-t-20">
                                 <h4 class="m-b-0">Google</h4>
@@ -31,12 +31,12 @@
                             <p>
                             <!-- Podria ser direccion de la empresa -->
                             <p class="text-muted">795 Folsom Ave, Suite 600 San Francisco, CADGE 94107</p>                           
-                            <a href="profile.html"  class="btn btn-raised btn-default">Ver Perfil</a>
-                            <ul class="social-links  m-t-10">
+                            <a href="profile.html"  class="btn btn-raised btn-default">Ver Empresa</a>
+                            <!--<ul class="social-links  m-t-10">
                                 <li><a title="facebook" href="#"><i class="zmdi zmdi-facebook"></i></a></li>
                                 <li><a title="twitter" href="#" ><i class="zmdi zmdi-twitter"></i></a></li>
                                 <li><a title="instagram" href="#" ><i class="zmdi zmdi-instagram"></i></a></li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -45,9 +45,9 @@
                 <div class="card">
                     <div class="body">
                         <div class="member-card">                           
-                            <div class="thumb-xl member-thumb">
+                           <!-- <div class="thumb-xl member-thumb">
                                 <img src="images/random-avatar4.jpg" class="img-thumbnail rounded-circle" alt="profile-image">                                
-                            </div>
+                            </div> -->
                             <div class="m-t-20">
                                 <h4 class="m-b-0">H.Ayuntamiento</h4>
                                 <p>
@@ -56,12 +56,12 @@
                             </div>
                             <!-- Direccion empresa -->
                             <p class="text-muted">795 Folsom Ave, Suite 600 San Francisco, CADGE 94107</p>
-                            <a href="#"  class="btn btn-raised btn-default">Ver Perfil</a>
-                            <ul class="social-links m-t-10">
+                            <a href="#"  class="btn btn-raised btn-default">Ver Empresa</a>
+                            <!-- <ul class="social-links m-t-10">
                                 <li><a title="facebook" href="#"><i class="zmdi zmdi-facebook"></i></a></li>
                                 <li><a title="twitter" href="#" ><i class="zmdi zmdi-twitter"></i></a></li>
                                 <li><a title="instagram" href="#" ><i class="zmdi zmdi-instagram"></i></a></li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -70,9 +70,9 @@
                 <div class="card">
                     <div class="body">
                         <div class="member-card verified">                           
-                            <div class="thumb-xl member-thumb">
+                           <!-- <div class="thumb-xl member-thumb">
                                 <img src="images/random-avatar6.jpg" class="img-thumbnail rounded-circle" alt="profile-image">                                
-                            </div>
+                            </div> -->
 
                             <div class="m-t-20">
                                 <h4 class="m-b-0">Valvid</h4>
@@ -82,12 +82,12 @@
                             </div>
                             <!-- Direccion empresa -->
                             <p class="text-muted">795 Folsom Ave, Suite 600 San Francisco, CADGE 94107</p>
-                            <a href="#"  class="btn btn-raised btn-default">Ver prefil</a>
-                            <ul class="social-links  m-t-10">
+                            <a href="#"  class="btn btn-raised btn-default">Ver Empresa</a>
+                            <!-- <ul class="social-links  m-t-10">
                                 <li><a title="facebook" href="#"><i class="zmdi zmdi-facebook"></i></a></li>
                                 <li><a title="twitter" href="#" ><i class="zmdi zmdi-twitter"></i></a></li>
                                 <li><a title="instagram" href="#" ><i class="zmdi zmdi-instagram"></i></a></li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -96,10 +96,9 @@
                 <div class="card">
                     <div class="body">
                         <div class="member-card verified">
-                            <div class="thumb-xl member-thumb">
+                            <!--<div class="thumb-xl member-thumb">
                                 <img src="images/random-avatar6.jpg" class="img-thumbnail rounded-circle" alt="profile-image">                                
-                            </div>
-
+                            </div> -->
                             <div class="m-t-20">
                                 <h4 class="m-b-0">Kabnet</h4>
                                 <p>
@@ -108,12 +107,12 @@
                             </div>
                             <!--direccion empresa -->
                             <p class="text-muted">795 Folsom Ave, Suite 600 San Francisco, CADGE 94107</p>
-                            <a href="#"  class="btn btn-raised btn-default">Ver perfil</a>
-                            <ul class="social-links  m-t-10">
+                            <a href="#"  class="btn btn-raised btn-default">Ver Empresa</a>
+                            <!-- <ul class="social-links  m-t-10">
                                 <li><a title="facebook" href="#"><i class="zmdi zmdi-facebook"></i></a></li>
                                 <li><a title="twitter" href="#" ><i class="zmdi zmdi-twitter"></i></a></li>
                                 <li><a title="instagram" href="#" ><i class="zmdi zmdi-instagram"></i></a></li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -122,10 +121,9 @@
                 <div class="card">
                     <div class="body">
                         <div class="member-card verified">
-                            <div class="thumb-xl member-thumb">
+                          <!--  <div class="thumb-xl member-thumb">
                                 <img src="images/random-avatar3.jpg" class="img-thumbnail rounded-circle" alt="profile-image">                                
-                            </div>
-
+                            </div> -->
                             <div class="m-t-20">
                                 <h4 class="m-b-0">Praxis</h4>
                                 <p>
@@ -134,12 +132,12 @@
                             </div>
                             <!-- direccion -->
                             <p class="text-muted">795 Folsom Ave, Suite 600 San Francisco, CADGE 94107</p>
-                            <a href="#"  class="btn btn-raised btn-default">Ver perfil</a>
-                            <ul class="social-links  m-t-10">
+                            <a href="#"  class="btn btn-raised btn-default">Ver Empresa</a>
+                           <!-- <ul class="social-links  m-t-10">
                                 <li><a title="facebook" href="#"><i class="zmdi zmdi-facebook"></i></a></li>
                                 <li><a title="twitter" href="#" ><i class="zmdi zmdi-twitter"></i></a></li>
                                 <li><a title="instagram" href="#" ><i class="zmdi zmdi-instagram"></i></a></li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -148,9 +146,9 @@
                 <div class="card">
                     <div class="body">
                         <div class="member-card">
-                            <div class="thumb-xl member-thumb">
+                           <!-- <div class="thumb-xl member-thumb">
                                 <img src="images/random-avatar4.jpg" class="img-thumbnail rounded-circle" alt="profile-image">                                
-                            </div>
+                            </div> -->
 
                             <div class="m-t-20">
                                 <h4 class="m-b-0">Bahia 360</h4>
@@ -160,12 +158,12 @@
                             </div>
                             <!-- Direccion empresa -->
                             <p class="text-muted">795 Folsom Ave, Suite 600 San Francisco, CADGE 94107</p>
-                            <a href="#"  class="btn btn-raised btn-default">Ver perfil</a>
-                            <ul class="social-links  m-t-10">
+                            <a href="#"  class="btn btn-raised btn-default">Ver Empresa</a>
+                           <!-- <ul class="social-links  m-t-10">
                                 <li><a title="facebook" href="#"><i class="zmdi zmdi-facebook"></i></a></li>
                                 <li><a title="twitter" href="#" ><i class="zmdi zmdi-twitter"></i></a></li>
                                 <li><a title="instagram" href="#" ><i class="zmdi zmdi-instagram"></i></a></li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -174,9 +172,9 @@
                 <div class="card">
                     <div class="body">
                         <div class="member-card verified">
-                            <div class="thumb-xl member-thumb">
+                           <!-- <div class="thumb-xl member-thumb">
                                 <img src="images/random-avatar6.jpg" class="img-thumbnail rounded-circle" alt="profile-image">                                
-                            </div>
+                            </div> -->
 
                             <div class="m-t-20">
                                 <h4 class="m-b-0">Facebook</h4>
@@ -186,12 +184,12 @@
                             </div>
                             <!-- Direccion empresa -->
                             <p class="text-muted">795 Folsom Ave, Suite 600 San Francisco, CADGE 94107</p>
-                            <a href="#"  class="btn btn-raised btn-default">Ver Perfil</a>
-                            <ul class="social-links  m-t-10">
+                            <a href="#"  class="btn btn-raised btn-default">Ver Empresa</a>
+                           <!-- <ul class="social-links  m-t-10">
                                 <li><a title="facebook" href="#"><i class="zmdi zmdi-facebook"></i></a></li>
                                 <li><a title="twitter" href="#" ><i class="zmdi zmdi-twitter"></i></a></li>
                                 <li><a title="instagram" href="#" ><i class="zmdi zmdi-instagram"></i></a></li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -200,9 +198,9 @@
                 <div class="card">
                     <div class="body">
                         <div class="member-card verified">
-                            <div class="thumb-xl member-thumb">
+                          <!--  <div class="thumb-xl member-thumb">
                                 <img src="images/random-avatar6.jpg" class="img-thumbnail rounded-circle" alt="profile-image">                                
-                            </div>
+                            </div> -->
 
                             <div class="m-t-20">
                                 <h4 class="m-b-0">Arrow</h4>
@@ -212,12 +210,12 @@
                             </div>
 
                             <p class="text-muted">795 Folsom Ave, Suite 600 San Francisco, CADGE 94107</p>
-                            <a href="#"  class="btn btn-raised btn-default">Ver Perfil</a>
-                            <ul class="social-links  m-t-10">
+                            <a href="#"  class="btn btn-raised btn-default">Ver Empresa</a>
+                           <!-- <ul class="social-links  m-t-10">
                                 <li><a title="facebook" href="#"><i class="zmdi zmdi-facebook"></i></a></li>
                                 <li><a title="twitter" href="#" ><i class="zmdi zmdi-twitter"></i></a></li>
                                 <li><a title="instagram" href="#" ><i class="zmdi zmdi-instagram"></i></a></li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                 </div>

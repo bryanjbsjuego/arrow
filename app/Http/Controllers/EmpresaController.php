@@ -7,6 +7,6 @@ use Illuminate\Http\Request;
 class EmpresaController extends Controller
 {
     public function index() {
-        return view('Empresa.asigrol');
+        return view('Empresa.altacontrato');
     }
 }

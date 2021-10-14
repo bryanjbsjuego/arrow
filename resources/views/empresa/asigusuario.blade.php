@@ -2,6 +2,7 @@
 
 @section('contenido')
 <h3>Formulario para asignar un usuario</h3>
+<div class="card">
 <div class="container-fluid">
 <div class="row clearfix">
     <div class="col-md-6 col-sm-12">
@@ -52,3 +53,7 @@
     </div>  
 </div>
 @endsection
+
+@section('scripts')
+<script src="{{ asset('plugins/dropzone/dropzone.js')}}"></script> <!-- Dropzone Plugin Js -->
+@endsecition

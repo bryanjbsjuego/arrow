@@ -1,7 +1,8 @@
 @extends('layouts.panel')
 
 @section('contenido')
-<h3>Formulario para agregar una obra</h3>
+<h3>Formulario para agregar un contrato</h3>
+<div class="card">
 <div class="container-fluid">
 <div class="row clearfix">
     <div class="col-md-6 col-sm-12">
@@ -73,21 +74,21 @@
     <div class="col-md-6 col-sm-12">
         <div class="form-group">
             <div class="form-line">
-                <input type="text" class="form-control" placeholder="Plazo de dias">
+                <input type="number" class="form-control" placeholder="Plazo de dias">
             </div>
         </div>
     </div>
     <div class="col-md-6 col-sm-12">
         <div class="form-group">
             <div class="form-line">
-                <input type="text" class="form-control" placeholder="$ Importe">
+                <input type="number" step="0.01" class="form-control" placeholder="$ Importe">
             </div>
         </div>
     </div>
     <div class="col-md-6 col-sm-12">
         <div class="form-group">
             <div class="form-line">
-                <input type="text" class="form-control" placeholder="Amortización">
+                <input type="number" step="0.01" class="form-control" placeholder="Amortización">
             </div>
         </div>
     </div>
