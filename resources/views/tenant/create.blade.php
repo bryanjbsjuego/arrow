@@ -112,3 +112,14 @@
 
     
 @endsection
+
+@section('scripts')
+
+<script src="{{asset('js/pages/index.js')}}"></script>
+
+<script src="{{ asset('plugins/autosize/autosize.js')}}"></script> <!-- Autosize Plugin Js --> 
+<script src="{{ asset('plugins/momentjs/moment.js')}}"></script> <!-- Moment Plugin Js --> 
+<script src="{{ asset('plugins/dropzone/dropzone.js')}}"></script> <!-- Dropzone Plugin Js -->
+<!-- Bootstrap Material Datetime Picker Plugin Js --> 
+<script src="{{ asset('plugins/bootstrap-material-datetimepicker/js/bootstrap-material-datetimepicker.js')}}"></script> 
+@endsection
