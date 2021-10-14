@@ -20,7 +20,7 @@
 							</li>
 						</ul>
 					</div>
-					<div class="body">                        
+					<div class="body">
                         <div class="row clearfix">
                             <div class="col-sm-12">
                                 <div class="form-group">
@@ -42,7 +42,7 @@
                                         <input type="text" class="form-control" placeholder="Course Duration">
                                     </div>
                                 </div>
-                            </div>                            
+                            </div>
                             <div class="col-lg-3 col-md-6 col-sm-12">
                                 <div class="form-group">
                                     <div class="form-line">
@@ -106,9 +106,12 @@
                     </div>
 				</div>
 			</div>
-		</div>        
-        
+		</div>
+
     </div>
 
-    
+
+@endsection
+@section('scripts')
+
 @endsection
