@@ -8,7 +8,7 @@
                     <small class="text-muted">Bienvenido a la aplicación ARROW</small>
                 </div>
                 <div>
-                    <a href="#" class="btn btn-raised btn-primary">Agregar empresa</a>
+                    <a href="/tenant/createcompany" class="btn btn-raised btn-success">Agregar empresa</a>
                 </div>
             </div>
         </div>
@@ -17,9 +17,7 @@
                 <div class="card">
                     <div class="body">
                         <div class="member-card verified">
-                            <div class="thumb-xl member-thumb">
-                                <img src="{{asset('images/random-avatar3.jpg')}}" class="img-thumbnail " alt="profile-image">                                
-                            </div>
+                           
 
                             <div class="m-t-20">
                                 <h6 class="m-b-0"><strong>Nombre:</strong> Cravil</h6>

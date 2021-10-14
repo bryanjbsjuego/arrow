@@ -13,6 +13,7 @@
 @yield('estilos')
 <link rel="stylesheet" href="{{asset('css/main.css')}}">
 <link rel="stylesheet" href="{{asset('css/themes/all-themes.css')}}"/>
+@yield('styles')
 </head>
 <body class="theme-blush">
 <!-- Page Loader -->

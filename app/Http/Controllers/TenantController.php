@@ -10,8 +10,5 @@ class TenantController extends Controller
         return view('tenant.index');
     }
 
-    public function create(){
-        return view('tenant.create');
-    }
-
+    
 }
