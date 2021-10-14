@@ -2,6 +2,7 @@
 
 @section('contenido')
 <h3>Formulario para editar una obra</h3>
+<div class="container-fluid">
 <div class="row clearfix">
     <div class="col-md-6 col-sm-12">
         <div class="form-group">
