@@ -2,6 +2,10 @@
 
 @section('contenido')
 <h3>Formulario para asignar un usuario</h3>
+
+{{route('empresa.create')}}
+<form action="">
+@csrf
 <div class="card">
 <div class="container-fluid">
 <div class="row clearfix">

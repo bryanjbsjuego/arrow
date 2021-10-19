@@ -41,5 +41,6 @@ Route::get('/tenant/createuseradmin', 'App\Http\Controllers\Tenant\TenantControl
 Route::get('/tenant/edituseradmin', 'App\Http\Controllers\Tenant\TenantController@edituser');
 
 
-//Empresa
+//Tenant Empresa
 Route::get('/empresa', 'App\Http\Controllers\EmpresaController@index');
+Route::get('/empresa/createasigusuario', 'App\Http\Controllers\Empresa\EmpresaController@create');
